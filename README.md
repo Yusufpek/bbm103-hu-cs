@@ -9,3 +9,4 @@ BBM103 Lecture's
 2. <a href= "BBM103/Quizzes">Quizzes</a>
 3. <a href= "BBM103/Exercises">Execises</a>
 
+and solutions :)
