@@ -1,0 +1,19 @@
+#set the constants
+0 setn r13 3 
+1 setn r14 4
+2 setn r15 5
+3 setn r10 10
+4 read r1 #get input
+5 jltzn r1 11 # les than zero
+6 jgtzn r1 14 # greater than zero
+# if input is equal to zero continue otherwise jump another line
+7 mul r2 r1 r1 # x * x
+8 add r2 r2 r10 # x2 + 10
+9 div r3 r2 r15 # x2 + 10 / 5
+10 jumpn 15 
+11 mul r2 r1 r13 # x * 3 
+12 sub r3 r2 r14 # 3x + 4
+13 jumpn 15
+14 div r3 r1 r15 # x / 5
+15 write r3 #write the result
+16 halt # stop

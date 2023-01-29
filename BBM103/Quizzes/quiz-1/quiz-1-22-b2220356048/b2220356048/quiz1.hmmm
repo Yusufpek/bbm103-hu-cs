@@ -1,0 +1,16 @@
+#inputs: initial position, initial velocity, falling time
+#finalPosition = (gravity * fallingTime * fallingTime / 2) + initialVelocity * fallingTime + initialPosition
+#gravity constant = -10
+0 setn r10 -10
+1 setn r12 2
+2 read r1 #initial position
+3 read r2 # initial velocity
+4 read r3 # falling time
+5 mul r4 r3 r3 # falling time * falling time
+6 mul r5 r10 r4 # final position = gravity * (fallingTime)2
+7 div r5 r5 r12 # divide by 2
+8 mul r6 r2 r3 # velocity * fallingTime 
+9 add r5 r5 r6 # final position = final position + (velocity * fallingTime)
+10 add r5 r5 r1 # final position = final position + initial position
+11 write r5
+12 halt

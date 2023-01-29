@@ -1,0 +1,4173 @@
+Battle of Ships Game
+
+Player1's Move
+
+Round : 1					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - -		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - - - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - - - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,E
+
+Player2's Move
+
+Round : 1					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - -		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - - - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,J
+
+Player1's Move
+
+Round : 2					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - - - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,G
+
+Player2's Move
+
+Round : 2					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,E
+
+Player1's Move
+
+Round : 3					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,I
+
+Player2's Move
+
+Round : 3					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,I
+
+Player1's Move
+
+Round : 4					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - O -		8 - - - - - - - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,C
+
+Player2's Move
+
+Round : 4					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - O -		8 - - - - - - - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,I
+
+Player1's Move
+
+Round : 5					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - O -		8 - - - - - - - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,F
+
+Player2's Move
+
+Round : 5					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,F
+
+Player1's Move
+
+Round : 6					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,F
+
+Player2's Move
+
+Round : 6					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 7,J
+
+Player1's Move
+
+Round : 7					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 - - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 7,A
+
+Player2's Move
+
+Round : 7					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,E
+
+Player1's Move
+
+Round : 8					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,A
+
+Player2's Move
+
+Round : 8					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,I
+
+Player1's Move
+
+Round : 9					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,C
+
+Player2's Move
+
+Round : 9					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,A
+
+Player1's Move
+
+Round : 10					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,G
+
+Player2's Move
+
+Round : 10					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,D
+
+Player1's Move
+
+Round : 11					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - - - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,G
+
+Player2's Move
+
+Round : 11					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 - - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 7,A
+
+Player1's Move
+
+Round : 12					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,H
+
+Player2's Move
+
+Round : 12					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - O - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - - O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,D
+
+Player1's Move
+
+Round : 13					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - O - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,F
+
+Player2's Move
+
+Round : 13					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,G
+
+Player1's Move
+
+Round : 14					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - - - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,E
+
+Player2's Move
+
+Round : 14					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 - - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,A
+
+Player1's Move
+
+Round : 15					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 3,G
+
+Player2's Move
+
+Round : 15					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - - - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,F
+
+Player1's Move
+
+Round : 16					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - O - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,I
+
+Player2's Move
+
+Round : 16					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 - - - - - O - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O - O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,A
+
+Player1's Move
+
+Round : 17					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 O - - - - O - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O - O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,H
+
+Player2's Move
+
+Round : 17					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 O - - - - O - - - -		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,J
+
+Player1's Move
+
+Round : 18					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - - O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,E
+
+Player2's Move
+
+Round : 18					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - - - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,G
+
+Player1's Move
+
+Round : 19					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O - - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,G
+
+Player2's Move
+
+Round : 19					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - - - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,B
+
+Player1's Move
+
+Round : 20					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O - -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - X - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,I
+
+Player2's Move
+
+Round : 20					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - X - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,A
+
+Player1's Move
+
+Round : 21					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X - X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - X - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,B
+
+Player2's Move
+
+Round : 21					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - X - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - - O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,E
+
+Player1's Move
+
+Round : 22					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O - X - - -
+6 - X - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,F
+
+Player2's Move
+
+Round : 22					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - - X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,D
+
+Player1's Move
+
+Round : 23					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X - O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,G
+
+Player2's Move
+
+Round : 23					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - - - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,G
+
+Player1's Move
+
+Round : 24					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - - - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,C
+
+Player2's Move
+
+Round : 24					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O - - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 7,B
+
+Player1's Move
+
+Round : 25					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- - O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,B
+
+Player2's Move
+
+Round : 25					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - - -		2 - - - - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,I
+
+Player1's Move
+
+Round : 26					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - O -		2 - - - - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,C
+
+Player2's Move
+
+Round : 26					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O - - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,B
+
+Player1's Move
+
+Round : 27					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - -
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 3,J
+
+Player2's Move
+
+Round : 27					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - - - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,G
+
+Player1's Move
+
+Round : 28					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10- X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,A
+
+Player2's Move
+
+Round : 28					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - - - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,C
+
+Player1's Move
+
+Round : 29					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O - O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,H
+
+Player2's Move
+
+Round : 29					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - - O O - - O -		8 - - - - - O O X O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,D
+
+Player1's Move
+
+Round : 30					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O - - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,G
+
+Player2's Move
+
+Round : 30					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - - -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,I
+
+Player1's Move
+
+Round : 31					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - - - - -		9 - - O - - - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,E
+
+Player2's Move
+
+Round : 31					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - - - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,G
+
+Player1's Move
+
+Round : 32					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 - - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,A
+
+Player2's Move
+
+Round : 32					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - - - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 3,F
+
+Player1's Move
+
+Round : 33					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O - - -
+7 O O - - - - - - - O		7 O - - - - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 7,D
+
+Player2's Move
+
+Round : 33					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - - X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O - - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,F
+
+Player1's Move
+
+Round : 34					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O - - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,H
+
+Player2's Move
+
+Round : 34					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X - - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,H
+
+Player1's Move
+
+Round : 35					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O - O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,D
+
+Player2's Move
+
+Round : 35					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O -		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,J
+
+Player1's Move
+
+Round : 36					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - - - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,C
+
+Player2's Move
+
+Round : 36					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - -		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,J
+
+Player1's Move
+
+Round : 37					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O -
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,J
+
+Player2's Move
+
+Round : 37					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O - - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,C
+
+Player1's Move
+
+Round : 38					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,B
+
+Player2's Move
+
+Round : 38					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,C
+
+Player1's Move
+
+Round : 39					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 3,E
+
+Player2's Move
+
+Round : 39					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,J
+
+Player1's Move
+
+Round : 40					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 8,E
+
+Player2's Move
+
+Round : 40					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,E
+
+Player1's Move
+
+Round : 41					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,I
+
+Player2's Move
+
+Round : 41					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 4,D
+
+Player1's Move
+
+Round : 42					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O - O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 3,F
+
+Player2's Move
+
+Round : 42					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,B
+
+Player1's Move
+
+Round : 43					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 7,F
+
+Player2's Move
+
+Round : 43					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 2,F
+
+Player1's Move
+
+Round : 44					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,D
+
+Player2's Move
+
+Round : 44					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X - - - O -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 10,A
+
+Player1's Move
+
+Round : 45					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X - - - O -
+10O - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 10,J
+
+Player2's Move
+
+Round : 45					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X - - - O -
+10O - - O O - - - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 7,I
+
+Player1's Move
+
+Round : 46					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X - - - O -
+10O - - O O - - - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 3,B
+
+Player2's Move
+
+Round : 46					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X - - - O -
+10O - - O O - - - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 2,D
+
+Player1's Move
+
+Round : 47					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X - - - O -
+10O - - O O - - - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 9,F
+
+Player2's Move
+
+Round : 47					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - - - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 10,G
+
+Player1's Move
+
+Round : 48					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 5,H
+
+Player2's Move
+
+Round : 48					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - - O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 7,H
+
+Player1's Move
+
+Round : 49					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O - - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 3,C
+
+Player2's Move
+
+Round : 49					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O - O O		6 O - O - - - O O - -
+7 O O - - - - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 6,H
+
+Player1's Move
+
+Round : 50					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - - - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 2,D
+
+Player2's Move
+
+Round : 50					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - - - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O - - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 9,H
+
+Player1's Move
+
+Round : 51					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - - - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - - - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O O - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 1,G
+
+Player2's Move
+
+Round : 51					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - - - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O O - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 7,E
+
+Player1's Move
+
+Round : 52					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - - -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O O - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 7,I
+
+Player2's Move
+
+Round : 52					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - O -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O O - -		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 9,J
+
+Player1's Move
+
+Round : 53					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - O -
+8 O - - O O O - - O X		8 - - - - O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 8,D
+
+Player2's Move
+
+Round : 53					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - - -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 3,I
+
+Player1's Move
+
+Round : 54					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - - O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X - - -
+
+Enter your move: 9,H
+
+Player2's Move
+
+Round : 54					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - - O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 3,E
+
+Player1's Move
+
+Round : 55					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - - O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 7,H
+
+Player2's Move
+
+Round : 55					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - - O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 7,D
+
+Player1's Move
+
+Round : 56					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - -
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 5,J
+
+Player2's Move
+
+Round : 56					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - - - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 9,E
+
+Player1's Move
+
+Round : 57					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O - O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - X - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 6,B
+
+Player2's Move
+
+Round : 57					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - - X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - X - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	X X - -
+
+Enter your move: 3,H
+
+Player1's Move
+
+Round : 58					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - -
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - X - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X - - -			Patrol Boat	X X - -
+
+Enter your move: 4,J
+
+Player2's Move
+
+Round : 58					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - O
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O - - O X		8 - - - O O O O X O -
+9 - - - - X - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X - - -			Patrol Boat	X X - -
+
+Enter your move: 8,G
+
+Player1's Move
+
+Round : 59					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - - O
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 - - - O O O O X O -
+9 - - - - X - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X - - -			Patrol Boat	X X - -
+
+Enter your move: 4,I
+
+Player2's Move
+
+Round : 59					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 - - - O O O O X O -
+9 - - - - X - O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X - - -			Patrol Boat	X X - -
+
+Enter your move: 9,F
+
+Player1's Move
+
+Round : 60					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O - O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 - - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 3,D
+
+Player2's Move
+
+Round : 60					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - - - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 - - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 5,H
+
+Player1's Move
+
+Round : 61					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 - - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 8,A
+
+Player2's Move
+
+Round : 61					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O - - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 4,B
+
+Player1's Move
+
+Round : 62					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X - X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O X - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 2,E
+
+Player2's Move
+
+Round : 62					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X X X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O X - O - - X O - O		4 X O X - O O O - O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 4,E
+
+Player1's Move
+
+Round : 63					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X X X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O - O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 4,H
+
+Player2's Move
+
+Round : 63					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X - O -		2 - - X X X X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 2,H
+
+Player1's Move
+
+Round : 64					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - - O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 1,F
+
+Player2's Move
+
+Round : 64					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O - X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 3,G
+
+Player1's Move
+
+Round : 65					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O - O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 10,F
+
+Player2's Move
+
+Round : 65					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - - X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 7,G
+
+Player1's Move
+
+Round : 66					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - X X O O		7 O - - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 7,B
+
+Player2's Move
+
+Round : 66					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - X X O O		7 O X - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - - O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 10,C
+
+Player1's Move
+
+Round : 67					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O - -
+7 O O - O O - X X O O		7 O X - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 6,I
+
+Player2's Move
+
+Round : 67					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O - O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 1,C
+
+Player1's Move
+
+Round : 68					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - - -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 1,I
+
+Player2's Move
+
+Round : 68					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O - X - O O -
+8 O - - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 8,B
+
+Player1's Move
+
+Round : 69					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O - X - O O -
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X - -
+
+Enter your move: 7,E
+
+Player2's Move
+
+Round : 69					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O - X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X - O O -
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X X -
+
+Enter your move: 5,D
+
+Player1's Move
+
+Round : 70					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X - O O -
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X X -
+
+Enter your move: 7,G
+
+Player2's Move
+
+Round : 70					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O -
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O - X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X - -			Patrol Boat	X X X -
+
+Enter your move: 10,B
+
+Player1's Move
+
+Round : 71					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O -
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 7,J
+
+Player2's Move
+
+Round : 71					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - - - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 9,C
+
+Player1's Move
+
+Round : 72					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 - O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 3,A
+
+Player2's Move
+
+Round : 72					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 X O O O O O O - - X
+4 O X - O X - X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 4,F
+
+Player1's Move
+
+Round : 73					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O - - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 8,B
+
+Player2's Move
+
+Round : 73					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - - O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 2,B
+
+Player1's Move
+
+Round : 74					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O - - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 6,D
+
+Player2's Move
+
+Round : 74					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - - X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 3,D
+
+Player1's Move
+
+Round : 75					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - O X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O -
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 8,J
+
+Player2's Move
+
+Round : 75					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - O X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O - O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		-				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 5,G
+
+Player1's Move
+
+Round : 76					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - O X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X -
+
+Enter your move: 4,D
+
+Player2's Move
+
+Round : 76					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - O X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O - X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 9,I
+
+Player1's Move
+
+Round : 77					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 - - X X X X X O O X
+3 - - - O X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 2,A
+
+Player2's Move
+
+Round : 77					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X -		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	X
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 3,J
+
+Player1's Move
+
+Round : 78					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X -
+Destroyer	-				Destroyer	X
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 5,I
+
+Player2's Move
+
+Round : 78					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O - O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 7,C
+
+Player1's Move
+
+Round : 79					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O - - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 3,H
+
+Player2's Move
+
+Round : 79					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O - X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	-				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 7,F
+
+Player1's Move
+
+Round : 80					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - - - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 1,C
+
+Player2's Move
+
+Round : 80					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O -
+2 - O O O - O X O O -		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 2,J
+
+Player1's Move
+
+Round : 81					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O -
+2 - O O O - O X O O O		2 X - X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 2,B
+
+Player2's Move
+
+Round : 81					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O -
+2 - O O O - O X O O O		2 X O X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O -		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	-				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 10,J
+
+Player1's Move
+
+Round : 82					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O -
+2 - O O O - O X O O O		2 X O X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X - O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	X				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 7,C
+
+Player2's Move
+
+Round : 82					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O -
+2 - O O O - O X O O O		2 X O X X X X X O O X
+3 - - - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X O O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	X				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X -			Patrol Boat	X X X X
+
+Enter your move: 3,B
+
+Player1's Move
+
+Round : 83					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O -
+2 - O O O - O X O O O		2 X O X X X X X O O X
+3 - X - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X O O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	X				Destroyer	X
+Submarine	X				Submarine	-
+Patrol Boat	X X X X			Patrol Boat	X X X X
+
+Enter your move: 1,J
+
+Player2's Move
+
+Round : 83					Grid Size: 10x10
+
+Player1's Hidden Board		Player2's Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O X
+2 - O O O - O X O O O		2 X O X X X X X O O X
+3 - X - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X O O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	X X
+Destroyer	X				Destroyer	X
+Submarine	X				Submarine	X
+Patrol Boat	X X X X			Patrol Boat	X X X X
+
+Enter your move: 2,E
+
+It is a Draw!
+Final Information
+
+Player1's Board		Player2's Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O - - O O - O X
+2 - O O O X O X O O O		2 X O X X X X X O O X
+3 - X - O X O X X X O		3 X O O O O O O O - X
+4 O X - O X O X O - O		4 X O X X O O O O O O
+5 O O O O X O X O - O		5 - - - - O O X X X X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X O O X X O O O O
+8 O O - O O O O - O X		8 O X - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O - X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X X				Battleship	X X
+Destroyer	X				Destroyer	X
+Submarine	X				Submarine	X
+Patrol Boat	X X X X			Patrol Boat	X X X X
